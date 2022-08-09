@@ -1,0 +1,6 @@
+com\example\JPA\Service\PlayerService.class
+com\example\JPA\Controller\PlayerController.class
+com\example\JPA\DBpersistTest\PlayerConfiguration.class
+com\example\JPA\JpaApplication.class
+com\example\JPA\DAO\PlayerRepository.class
+com\example\JPA\Model\PlayerModel.class
